@@ -13,7 +13,7 @@
 .clearfix:after {
   clear: both;
 }
-
+/*Barra de navegacion*/
 nav {
 	background-color:#34495E;
 }
@@ -28,7 +28,7 @@ li, a {
 	display:inline-block;
 	margin-left: -20px;
 }
-
+/*Fondo tigre*/
 .fondo {
 	background-image: url("../images/slider/bg1.jpg");
 	height:601px;
@@ -43,6 +43,7 @@ li, a {
 .bajada {
 	color: white;
 }
+/*Redes sociales*/
 .verde {
 	height: 231px;
 	background-color: #2ECC71;
@@ -82,6 +83,7 @@ li, a {
 	margin-left: 20px;
 	margin-top: 20px;
 }
+/*Portafolio*/
 .blanco {
 	height: 488px;
 }
@@ -110,10 +112,61 @@ span .glyphicon-menu-left{
 .work3{
 	margin-left: 780px;
 }
+/*Seccion rojo*/
 .rojo {
 	background-color:#E74C3C;
-	height:475px; 
+	height:475px;
+
 }
+.what {
+	color: white;
+	margin-top: 73px;
+}
+.down {
+	color: white;
+}
+.reglon {
+	background-color: white;
+	width: 8px;
+	height: 94px;
+	margin-top: 55px;
+	margin-left: 105px;
+}
+.one{
+	color:white;
+	margin-top: -85px;
+    margin-left: 130px;
+}
+small {
+	color: white;
+	margin-left:130px;	
+}
+/*Area azul*/
+.azul {
+	background-color: #34495E;
+	height: 368px;
+}
+.about{
+	color: white;
+	margin-top:51px;
 	
-
-
+}
+.us {
+	color: white;
+	margin-top: 24px;
+}
+li {
+text-decoration: none;	
+color: white;
+}
+.homnbre,.men {
+	display: inline-block;
+}
+/*Footer*/
+.futer {
+	background-color: #2C3E50;
+	height: 90px;
+}
+.registro {
+	color: white;
+}
